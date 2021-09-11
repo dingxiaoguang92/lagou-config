@@ -1,5 +1,5 @@
 # lagou-config
 mysql:
-  user: dxg
+  user: dxg_
 person:
-  name: yuanjing
+  name: yuanjing_
