@@ -1,2 +1,5 @@
 # lagou-config
-user: dxg
+mysql:
+  user: dxg
+person:
+  name: yuanjing
